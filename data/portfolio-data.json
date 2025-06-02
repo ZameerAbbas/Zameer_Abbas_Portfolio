@@ -7,25 +7,25 @@
     "name": "Zameer Abbas",
     "title": "Front End Developer",
     "location": "Pakistan,Gilgit",
-    "avatar": "/confident-professional.png",
+    "avatar": "/profile.jpg",
     "email": "zameerabbas3435@gmail.com",
     "phone": "+923149790588",
-    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "workingHours": "Monday - Friday, 9am - 5pm ",
     "availableForWork": true,
     "badges": [
-      "UI/UX",
-      "Product Design",
-      "Prototyping"
+      "React Js ",
+      "Next Js",
+      "TypeScript"
     ],
     "social": [
       {
         "platform": "GitHub",
-        "url": "#",
+        "url": "https://github.com/ZameerAbbas",
         "icon": "Github"
       },
       {
         "platform": "LinkedIn",
-        "url": "#",
+        "url": "https://www.linkedin.com/in/zameerabbas-dev/",
         "icon": "Linkedin"
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "platform": "Instagram",
-        "url": "#",
+        "url": "https://www.instagram.com/enigmatic_1a?igsh=b2owcGEzNjVjY2g4",
         "icon": "Instagram"
       }
     ]
@@ -123,11 +123,11 @@
       "title": " Front End Developer",
       "company": "Dot Austere",
       "period": "2019 - 2024",
-      "description": "Collaborated with cross-functional teams to design intuitive and engaging user experiences for various client projects. Created wireframes, prototypes, and high-fidelity designs for web and mobile applications.",
+      "description": "Worked directly with clients to understand their needs, solve real problems, and deliver functional, high-quality web applications. Built responsive and scalable UIs using React (Hooks, Context API), Next.js, and Tailwind CSS. Translated ideas into intuitive user experiences with Figma prototypes and styled-components. Integrated Firebase for real-time features, ensuring smooth performance and fast delivery",
       "achievements": [
-        "Designed interfaces for 12+ client projects across fintech, healthcare, and e-commerce",
-        "Improved conversion rates by an average of 22% through data-driven design iterations",
-        "Mentored junior designers and facilitated design thinking workshops"
+        "Delivered responsive, user-friendly interfaces for 12+ client projects across healthcare, e-commerce, school management, and doctor job hunting platforms in Germany",
+        "Boosted user engagement and conversion rates by 22% through iterative UI improvements and performance optimization",
+        "Guided junior developers and led collaborative workshops to foster creative problem-solving and best practices"
       ],
       "technologies": [
         "React js",
@@ -165,7 +165,7 @@
         "degree": "Bachelor of Computer Science",
         "institution": " Karakorum International Universtiy",
         "year": "2020-2024",
-        "logo": "/generic-art-school-logo.png"
+        "logo": "/Mono-KIU2.gif"
       }
     ],
     "skills": [
@@ -195,8 +195,10 @@
       "JavaScript",
       "React",
       "Tailwind",
-      "SCSS",
-      "Git",
+      "Next JS",
+      "TypeScript",
+      "Redux",
+      "Git and GitHub",
       "Responsive Design"
     ],
     "uxMethods": [
