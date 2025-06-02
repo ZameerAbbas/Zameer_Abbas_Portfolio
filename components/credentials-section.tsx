@@ -48,7 +48,6 @@ export function CredentialsSection() {
               </div>
             </div>
           </AnimatedSection>
-
           {/* Education */}
           <AnimatedSection animation="fade-up" delay={200}>
             <div className="space-y-4">
