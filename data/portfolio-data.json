@@ -149,15 +149,15 @@
       },
       {
         "name": "Professional Front End Developer",
-        "issuer": "Interaction Design Foundation",
+        "issuer": "Coursera",
         "date": "2021",
-        "logo": "/generic-military-logo.png"
+        "logo": "/cert1.png"
       },
       {
-        "name": "Design Leadership Certification",
-        "issuer": "IDEO",
+        "name": "Responsive Web Design",
+        "issuer": "Free Code Camp",
         "date": "2020",
-        "logo": "/ideo-logo.png"
+        "logo": "/freecodecmp.png"
       }
     ],
     "education": [
@@ -170,10 +170,9 @@
     ],
     "skills": [
       "UI Design",
-      "UX Research",
-      "Design Systems",
-      "Wireframing",
-      "Prototyping",
+      "Git",
+      "GitHub",
+      "Figma",
       "User Testing",
       "Accessibility",
       "Design Thinking"
@@ -183,12 +182,7 @@
     "design": [
       "Figma",
       "Sketch",
-      "Adobe XD",
-      "Illustrator",
-      "Photoshop",
-      "InVision",
-      "Principle",
-      "Framer"
+      "Adobe XD"
     ],
     "development": [
       "HTML/CSS",
@@ -198,16 +192,10 @@
       "Next JS",
       "TypeScript",
       "Redux",
+      "Shadcn UI",
+      "Material UI",
       "Git and GitHub",
       "Responsive Design"
-    ],
-    "uxMethods": [
-      "User Research",
-      "Usability Testing",
-      "Wireframing",
-      "Prototyping",
-      "Information Architecture",
-      "User Flows"
     ],
     "softSkills": [
       "Team Leadership",

@@ -23,7 +23,7 @@ export default function Home() {
 
   return (
     <main className="min-h-screen bg-black text-white">
-   
+
       <div className="fixed inset-0 bg-[radial-gradient(#333_1px,transparent_1px)] [background-size:20px_20px] opacity-20 z-0"></div>
 
       <PortfolioHeader />
@@ -102,16 +102,7 @@ export default function Home() {
                       </div>
                     </AnimatedSection>
 
-                    <AnimatedSection animation="slide-right" delay={300}>
-                      <div className="space-y-3">
-                        <h4 className="text-sm font-medium text-zinc-400">UX Methods</h4>
-                        <div className="flex flex-wrap gap-2">
-                          {technicalSkills.uxMethods.map((skill, index) => (
-                            <SkillTagComponent key={index}>{skill}</SkillTagComponent>
-                          ))}
-                        </div>
-                      </div>
-                    </AnimatedSection>
+
 
                     <AnimatedSection animation="slide-left" delay={400}>
                       <div className="space-y-3">
