@@ -317,11 +317,11 @@ const projects: Project[] = [
 
   coverImage: "/fruits-nuts-bazar-cover.png",
 
-  thumbnailImage: "/fruits-nuts-bazar.png",
+  thumbnailImage: "/fruits-nuts-bazar-cover.png",
 
   gallery: [
     {
-      url: "/fruits-nuts-home.png",
+      url: "/fruits-nuts-bazar-cover.png",
       caption: "Fruits & Nuts Bazar Homepage"
     },
     {
@@ -359,7 +359,7 @@ const projects: Project[] = [
       slug: "bmc-medical-store",
       title: "BMC Medical Store",
       category: "E-Commerce Web Application",
-      image: "/bmc-medical-store.png",
+      image: "/bmc-medical-store-cover.png",
     },
     {
       slug: "brinlgy-ecommerce-platform",
@@ -431,7 +431,7 @@ const projects: Project[] = [
 
   coverImage: "/daw-by-dalilin-cover.png",
 
-  thumbnailImage: "/daw-by-dalilin.png",
+  thumbnailImage: "/daw-by-dalilin-cover.png",
 
   gallery: [
     {
@@ -487,13 +487,13 @@ const projects: Project[] = [
       slug: "fruits-and-nuts-bazar",
       title: "Fruits & Nuts Bazar",
       category: "Full-Stack E-Commerce",
-      image: "/fruits-nuts-bazar.png",
+      image: "/fruits-nuts-bazar-cover.png",
     },
     {
       slug: "bmc-medical-store",
       title: "BMC Medical Store",
       category: "E-Commerce Web Application",
-      image: "/bmc-medical-store.png",
+      image: "/bmc-medical-store-cover.png",
     },
   ],
 },
