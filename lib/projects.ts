@@ -632,7 +632,120 @@ const projects: Project[] = [
       image: "/bmc-medical-store.png",
     },
   ],
-}
+},
+{
+  id: 6,
+  slug: "aural-headset",
+  title: "AURAL Headphones",
+  category: "Premium Audio & E-Commerce",
+
+  shortDescription:
+    "A premium headphone brand and e-commerce experience designed to showcase modern wireless headphones through a clean, immersive, and product-focused digital interface.",
+
+  description: [
+    "AURAL is a premium headphone and audio brand website designed to present a modern collection of wireless headphones through an immersive digital shopping experience. The website combines product-focused visual design with a clean and contemporary interface to communicate the brand's identity and showcase its headphone lineup.",
+
+    "The website provides customers with a dedicated shopping experience where they can explore AURAL headphone models, discover product details, compare different designs, and navigate through the available product collection. The interface places strong emphasis on high-quality product presentation and visual storytelling.",
+
+    "AURAL's product experience is designed around different headphone models with distinct visual identities and design characteristics. Each product is presented with detailed imagery and supporting information to help customers understand the product and select the model that best matches their preferences.",
+
+    "The responsive website was designed to provide a consistent experience across desktop and mobile devices. The interface focuses on modern UI/UX principles, smooth navigation, strong visual hierarchy, responsive layouts, and an engaging product presentation.",
+
+    "Overall, the AURAL project combines premium product branding, modern web design, responsive development, and an e-commerce-oriented user experience to create a polished digital platform for showcasing and selling contemporary headphones."
+  ],
+
+  features: [
+    "Premium headphone product showcase",
+    "Modern e-commerce experience",
+    "Wireless headphone collection",
+    "Product-focused landing page",
+    "Product catalog and shopping section",
+    "Individual product presentation",
+    "Product imagery and visual storytelling",
+    "Product pricing display",
+    "Responsive website design",
+    "Mobile-friendly interface",
+    "Modern navigation experience",
+    "Premium brand presentation",
+    "Clean and minimalist UI",
+    "Interactive product sections",
+    "E-commerce-oriented user experience",
+    "Cross-device responsive layouts"
+  ],
+
+  technologies: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "JavaScript",
+    "Responsive Web Design",
+    "E-Commerce UI",
+    "Modern UI/UX",
+    "Supabase",
+    "Component-Based Architecture"
+  ],
+
+  coverImage: "/aural-homepage.png",
+
+  thumbnailImage: "/aural-homepage.png",
+
+  gallery: [
+    {
+      url: "/aural-homepage.png",
+      caption: "AURAL Headphones Homepage"
+    },
+    {
+      url: "/aural-shop.png",
+      caption: "AURAL Headphones Shop"
+    },
+    {
+      url: "/aural-product-showcase.png",
+      caption: "AURAL Product Collection"
+    },
+    {
+      url: "/aural-product-detail.png",
+      caption: "AURAL Product Details"
+    },
+    {
+      url: "/aural-headphone-showcase.png",
+      caption: "Premium Headphone Showcase"
+    },
+    {
+      url: "/aural-mobile-view.png",
+      caption: "Responsive Mobile Experience"
+    }
+  ],
+
+  timeline: "3 months",
+
+  role: "Full-Stack Developer & UI/UX Designer",
+
+  liveUrl: "https://aural-headset.vercel.app",
+
+  githubUrl: "https://github.com/ZameerAbbas/Aural_Headset",
+
+  relatedProjects: [
+    {
+      slug: "daw-by-dalilin",
+      title: "DAW by Dalilin",
+      category: "Multi-Platform E-Commerce & Marketing",
+      image: "/daw-by-dalilin-cover.png",
+    },
+    {
+      slug: "brinlgy-ecommerce-platform",
+      title: "Brinlgy E-Commerce Platform",
+      category: "E-Commerce & Mobile Application",
+      image: "/brinlgy-dashboard.png",
+    },
+    {
+      slug: "fruits-and-nuts-bazar",
+      title: "Fruits & Nuts Bazar",
+      category: "Full-Stack E-Commerce",
+      image: "/fruits-nuts-bazar-cover.png",
+    },
+  ],
+},
 ]
 
 export { projects }

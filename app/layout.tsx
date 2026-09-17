@@ -5,6 +5,9 @@ import "./globals.css"
 import { ScrollProgressIndicator } from "@/components/scroll-progress-indicator"
 import { AnimationProvider } from "@/contexts/animation-context"
 import { getMetaInfo } from "@/lib/data"
+import AIChatWidget from "@/components/AIChatWidget"
+
+
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -27,6 +30,11 @@ export default function RootLayout({
         <AnimationProvider>
           <ScrollProgressIndicator />
           {children}
+          <AIChatWidget/>
+
+          {/* <AIVoiceWidget/> */}
+
+          {/* <GeminiLiveAgent /> */}
         </AnimationProvider>
       </body>
     </html>

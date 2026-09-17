@@ -15,7 +15,6 @@ import { getExperienceInfo, getTechnicalSkillsInfo } from "@/lib/data"
 const SkillTagComponent = ({ children }: { children: React.ReactNode }) => {
   return <div className="px-2 py-1 bg-zinc-800 rounded-full text-xs font-medium text-zinc-400">{children}</div>
 }
-
 export default function Home() {
   const projects = getAllProjects()
   const experienceInfo = getExperienceInfo()
