@@ -16,6 +16,7 @@ interface ProjectPageProps {
   }
 }
 
+
 export default function ProjectPage({ params }: ProjectPageProps) {
   const project = getProjectBySlug(params.slug)
 
