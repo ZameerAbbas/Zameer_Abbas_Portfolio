@@ -9,6 +9,7 @@ function getRecognition(): any {
   const w = window as any;
   return w.SpeechRecognition || w.webkitSpeechRecognition || null;
 }
+
 export default function AIChatWidget() {
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Msg[]>([]);
